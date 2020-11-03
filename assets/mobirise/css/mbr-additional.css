@@ -16364,6 +16364,22 @@ a {
 .cid-sdv7lLO4r9 img {
   width: 100%;
 }
+.cid-sffhaE4vga {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sffhaE4vga .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sffhaE4vga .row {
+  flex-direction: row-reverse;
+}
+.cid-sffhaE4vga img {
+  width: 100%;
+}
 .cid-sdv7sBy80F {
   padding-top: 6rem;
   padding-bottom: 6rem;
