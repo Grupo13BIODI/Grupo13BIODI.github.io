@@ -21993,6 +21993,27 @@ a {
     padding: 2rem;
   }
 }
+.cid-siSYBwW9j0 {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-siSYBwW9j0 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-siSYBwW9j0 .row {
+  flex-direction: row-reverse;
+}
+.cid-siSYBwW9j0 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-siSYBwW9j0 .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-siQ8KZxZEx {
   padding-top: 6rem;
   padding-bottom: 6rem;
